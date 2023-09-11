@@ -2,7 +2,8 @@
 
 Welcome to Cosmo Crowd, the future of crowdfunding powered by blockchain technology. This innovative web application is designed to provide a transparent, secure, and revolutionary crowdfunding experience.
 
-![Screenshot (1303)](https://github.com/Abhishek9503/Cosmo-Crowd/assets/103676667/6b813df4-f586-41f6-b75d-76b5a145c8f5)
+![Uploading Screenshot (1303).png…]()
+
 
 ## Key Features 🌟
 
