@@ -1,4 +1,4 @@
-{
+ {
   "name": "hardhat-javascript-starter",
   "scripts": {
     "build": "npx thirdweb@latest detect",

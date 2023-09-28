@@ -17,7 +17,6 @@ const FormField = ({labelName, placeholder, inputType, isTextArea, value, handle
              required
             value={value}
             onChange={handleChange}
-            type={inputType}
             rows={10}
             step="0.1"
             placeholder={placeholder}

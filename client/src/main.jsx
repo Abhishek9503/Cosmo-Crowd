@@ -12,7 +12,7 @@ const container = document.getElementById("root");
 const root = createRoot(container);
 
 root.render(
-    <ThirdwebProvider desiredChainId={ChainId.Goerli}>
+    <ThirdwebProvider activeChainId={ChainId.Goerli}>
         <Router>
         <StateContextProvider>
         <App/>
